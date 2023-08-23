@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
